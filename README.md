@@ -79,9 +79,9 @@ I work on **backend development, RESTful APIs, and AI/ML applications**.
 
 ## 🌐 Connect with Me
 - 📍 Bangalore, India  
-- 📧 **jeeva0327.2002@gmail.com**  
-- 🔗 LinkedIn (https://www.linkedin.com/in/jeeva-v-2003-/)  
-- 🐙 GitHub: **https://github.com/JeevaV2003**
+- 📧 **likith9591@gmail.com**  
+- 🔗 LinkedIn ([https://www.linkedin.com/in/likith-v-5abb32357/])  
+- 🐙 GitHub: **https://github.com/Likith91**
 
 ---
 
